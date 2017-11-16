@@ -1,4 +1,4 @@
-﻿##滑稽 Funny
+##滑稽 Funny
 ######作者：[Fltend](https://www.fltend.top/ "Fltend")
 源码中的Program.exe就是病毒(Joke Program)啦。
 - 先做个广告，我有两块用不上的硬盘，
