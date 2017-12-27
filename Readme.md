@@ -2,7 +2,7 @@
 ###### 作者：[Fltend](https://www.fltend.top/ "Fltend")
 源码中的Program.exe就是病毒(Joke Program)啦。
 - 先做个广告，我有块用不上的硬盘，
-- 金士顿 HyperX Savage 960G SATA3 固态硬盘，[咸鱼(https://2.taobao.com/item.htm?spm=2007.1000622.0.0.lAaZqt&id=559778658321)](https://2.taobao.com/item.htm?spm=2007.1000622.0.0.lAaZqt&id=559778658321 "咸鱼(https://2.taobao.com/item.htm?spm=2007.1000622.0.0.lAaZqt&id=559778658321)")。
+- 金士顿 HyperX Savage 960G SATA3 固态硬盘，[咸鱼(https://2.taobao.com/item.htm?spm=2007.1000622.0.0.LQi13i&id=562784949282)](https://2.taobao.com/item.htm?spm=2007.1000622.0.0.LQi13i&id=562784949282 "咸鱼(https://2.taobao.com/item.htm?spm=2007.1000622.0.0.LQi13i&id=562784949282)")。
 - 求土豪带走，带走的话如果你愿意这里可以留下你的大名哦。
 ---
 回到病毒上，这是随便花几天做的病毒，光标跟踪滑稽，壁纸变色滑稽自动更换，免
